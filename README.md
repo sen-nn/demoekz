@@ -5,9 +5,9 @@ install.sh - файл с установкой всего
 
 Используемые команды для разработки проекта
 ```python
-pyside6-designer - для открытия дизайнера
-pyside6-uic имя_файла.ui -o имя_файла.py - для авто генерации визуала для python
-sqlacodegen sqlacodegen "postgresql+psycopg://postgres:пароль@localhost/название_базы_данных" --outfile models.py - для авто генерации классов базы данных
+pyside6-designer  #для открытия дизайнера
+pyside6-uic имя_файла.ui -o имя_файла.py #для авто генерации визуала для python
+sqlacodegen sqlacodegen "postgresql+psycopg://postgres:пароль@localhost/название_базы_данных" --outfile models.py #для авто генерации классов базы данных
 ```
 Установка в python
 ```python
