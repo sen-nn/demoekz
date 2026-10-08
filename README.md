@@ -1,7 +1,7 @@
 # Тут будут приколы для Демо экзамена 
 install.sh - файл с установкой всего
 
-[Ссылка](https://rosa.ru/rosa-linux-download-links/?ysclid=muwafyl1lp603708337) на Roza Linux 
+[Ссылка]([https://rosa.ru/rosa-linux-download-links/?ysclid=muwafyl1lp603708337](https://hub.mos.ru/mos/iso/-/packages/37)) на MosTech 
 
 Используемые команды для разработки проекта
 ```python
