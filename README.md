@@ -13,7 +13,7 @@ sqlacodegen sqlacodegen "postgresql+psycopg://postgres:пароль@localhost/н
 ```python
 python3 -m venv .venv
 source .venv/bin/activate
-python3 -m pip install --update pip
+python3 -m pip install --upgrade pip
 pip install pyside6
 pip install sqlalchemy
 pip install psycopg2-binary
